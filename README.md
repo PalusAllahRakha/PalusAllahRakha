@@ -21,7 +21,7 @@
 
 ### 🚀 About Me
 
-- 🎯 Frontend Engineer with **4+ years** of experience building scalable, responsive web applications with **React.js**, **Next.js**, and modern frontend tooling
+- 🎯 Frontend Engineer with **6+ years** of experience building scalable, responsive web applications with **React.js**, **Next.js**, and modern frontend tooling
 - 💼 Currently working as a **Frontend Engineer at [Qbatch](https://qbatch.com)**, building SaaS dashboards, CRM systems, browser extensions, and e-commerce platforms
 - 🎨 Focused on **performance, reusable UI architecture, and clean component design**
 - 🌐 Based in **Lahore, Pakistan**
