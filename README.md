@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Engineer | React.js & Next.js Specialist | Building scalable, user-focused web apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Frontend+Engineer+%7C+React.js+%2B+Next.js;4%2B+Years+Building+SaaS+%26+CRM+Platforms;Turning+Designs+Into+Fast%2C+Reusable+UI;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Frontend+Engineer+%7C+React.js+%2B+Next.js;4%2B+Years+Building+SaaS+%26+CRM+Platforms;Turning+Designs+Into+Fast%2C+Reusable+UI;Always+Learning%2C+Always+Shipping](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Frontend+Engineer+%7C+React.js+%2B+Next.js;6%2B+Years+Building+SaaS+%26+CRM+Platforms;Freelance+%26+Remote+%7C+Open+to+Opportunities;Always+Learning%2C+Always+Shipping)" alt="Typing SVG" />
 </p>
 
 <p align="center">
